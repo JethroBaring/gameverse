@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rounded-inherit {
+    border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+}
