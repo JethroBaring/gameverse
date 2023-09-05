@@ -1,6 +1,7 @@
 <script lang="ts">
 	export let title: string;
 	export let href: string;
+	let x = 5
 </script>
 
 <a {href}>
